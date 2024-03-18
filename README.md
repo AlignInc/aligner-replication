@@ -1,5 +1,4 @@
-<h1 align="cener">This repository is the replication of the paper - <em>Aligner</em>: Achieving Efficient Alignment through <br>
-Weak-to-Strong Correction </h1>
+<h1 align="cener">This repository is the replication of the paper - <em>Aligner</em>: Achieving Efficient Alignment through Weak-to-Strong Correction </h1>
 
 Using the techniques mentioned in the paper, we successfully improved the performance of Qwen-72B-Chat and Claude3-Opus on AlpacaEval. Qwen-72B-Chat's win rate rose to 32.41%, with its responses averaging 1812 tokens. Meanwhile, Claude3-Opus's win rate improved to 35.21%, with responses averaging 1881 tokens.
 
