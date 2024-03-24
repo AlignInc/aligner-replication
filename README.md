@@ -1,5 +1,6 @@
 # Aligner-Reproduced
 
+AlignInc uses the *Aligner* technology developed by Peking University, training a lightweight Aligner based on Gemma-2B, and applies it to our specific business practices. Notably, the Aligner we replicated achieved marvelous results on AlpacaEval. See below for details.
 
 ## Citing *Aligner*
 
